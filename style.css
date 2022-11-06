@@ -40,6 +40,8 @@ body {
   left: 20px;
   margin: 0;
   opacity: 0;
+  width: 100%;
+  text-align: center;
 }
 
 .panel.active {
